@@ -86,4 +86,7 @@ public class LoginTest extends BaseClass {
 
 	}
 
+	public void Display() {
+		System.out.println("This is java");
+	}
 }

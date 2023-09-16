@@ -57,7 +57,7 @@ public class Commons {
 	}
 
 	/**
-	 * It will maximize opned window
+	 * It will maximize opened window
 	 */
 	public static void maximizeBrowser() {
 		Constants.driver.manage().window().maximize();
